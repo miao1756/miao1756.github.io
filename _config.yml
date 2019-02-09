@@ -1,8 +1,8 @@
 # Site settings
-title: Website title
-description: Website short description
-baseurl: "/PointingToTheMoon" 
-url: "https://yk-liu.github.io" 
+title: Constellations of Prints
+description: my thoughts and my behavior
+baseurl: " " 
+url: "https://miao1756.github.io/" 
 
 # GitHub User settings
 username: username
